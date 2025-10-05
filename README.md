@@ -7,7 +7,7 @@ Each project demonstrates real-world techniques in **Excel, SQL, and Python**, f
 
 ---
 
-## 📁 Project Index
+## Project Index
 
 | Date | Project | Dataset | Tools | Highlights |
 |------|----------|----------|--------|-------------|
@@ -17,7 +17,7 @@ Each project demonstrates real-world techniques in **Excel, SQL, and Python**, f
 
 ---
 
-## 📊 Featured Work
+## Featured Work
 
 ### 🛳️ Titanic Survival Insights Dashboard
 A two-part Excel dashboard analyzing survival rates by **gender, class, age, and port of embarkation**.  
@@ -41,7 +41,7 @@ Covers techniques like:
 
 ---
 
-## 🧩 Cross-Dataset Projects
+## Cross-Dataset Projects
 Future projects will feature **comparative analytics** between datasets to highlight reusable methods and visualization consistency.
 
 | Theme | Description |
@@ -52,7 +52,7 @@ Future projects will feature **comparative analytics** between datasets to highl
 
 ---
 
-## 🧰 Tools & Skills
+## Tools & Skills
 
 **Core Tools:**  
 Excel · Python (pandas, matplotlib) · SQL · Git · Notion  
@@ -65,7 +65,7 @@ Excel · Python (pandas, matplotlib) · SQL · Git · Notion
 
 ---
 
-## 💬 About Me
+## About Me
 Hi, I’m **JP Malit**, an aspiring data analyst and visual storyteller.  
 I’m passionate about transforming messy datasets into clear, insight-driven stories that help people make decisions.  
 
@@ -75,7 +75,7 @@ I build structured, replicable workflows and design dashboards that balance data
 
 ---
 
-## 📫 Contact
+## Contact
 - 💼 [LinkedIn](https://linkedin.com/in/jp-malit)  
 - ✉️ [Email](mailto:jplmalit@gmail.com)  
 - 🧠 Discord / GitHub / Kaggle: **@blakusnaku**
