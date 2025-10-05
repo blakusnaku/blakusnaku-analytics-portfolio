@@ -37,7 +37,7 @@ Covers techniques like:
 - Standardizing regions and segments  
 > *Outcome:* Clean dataset ready for visualization and pivot-based analysis.
 
-📎 [View Project →](https://github.com/blakusnaku/superstore-cleaning)
+📎 [View Project →](https://github.com/blakusnaku/blakusnaku-superstore-cleaning)
 
 ---
 
