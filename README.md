@@ -24,7 +24,7 @@ A two-part Excel dashboard analyzing survival rates by **gender, class, age, and
 Includes advanced pivot usage, calculated fields, and visual storytelling.  
 > *Key insight:* Females in 1st Class had a 96.8% survival rate — the highest across the dataset.
 
-📎 [View Project →](https://github.com/blakusnaku/titanic-dashboards)  
+📎 [View Project →](https://github.com/blakusnaku/excel-titanic-cleaning)  
 📄 [View Dashboard PDF →](https://github.com/blakusnaku/titanic-dashboards/blob/main/outputs/2025-10-06_titanic-v2.pdf)
 
 ---
