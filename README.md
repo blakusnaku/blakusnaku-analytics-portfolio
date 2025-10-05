@@ -11,8 +11,8 @@ Each project demonstrates real-world techniques in **Excel, SQL, and Python**, f
 
 | Date | Project | Dataset | Tools | Highlights |
 |------|----------|----------|--------|-------------|
-| **2025-10-06** | [Titanic Survival Insights Dashboard](https://github.com/blakusnaku/titanic-dashboards) | Titanic | Excel | Advanced pivots, calculated survival rates, dashboard design |
-| **2025-10-03** | [Superstore Data Cleaning](https://github.com/blakusnaku/superstore-cleaning) | Superstore | Excel | Data profiling, null handling, category normalization |
+| **2025-10-06** | [Titanic Survival Insights Dashboard](https://github.com/blakusnaku/excel-titanic-cleaning) | Titanic | Excel | Advanced pivots, calculated survival rates, dashboard design |
+| **2025-10-03** | [Superstore Data Cleaning](https://github.com/blakusnaku/data-cleaning-superstore) | Superstore | Excel | Data profiling, null handling, category normalization |
 | *(coming soon)* | Cross-Dataset Comparison | Titanic + Superstore | Excel / Python | Comparing pivot structures and storytelling patterns |
 
 ---
