@@ -85,4 +85,4 @@ I build structured, replicable workflows and design dashboards that balance data
 ### 🖋️ Credits
 All projects by **JP Malit (@blakusnaku)**  
 *Data sources: public datasets (Kaggle / Open Data / academic archives)*  
-© 2025 — Analytics Portfolio. All rights reserved.
+© 2025 JP Malit — Analytics Portfolio. All rights reserved.
