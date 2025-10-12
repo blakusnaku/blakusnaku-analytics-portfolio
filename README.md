@@ -1,87 +1,52 @@
-# blakusnaku-analytics-portfolio
+# 🧠 blakusnaku — Data Analytics Portfolio
 
-# 🧠 Analytics Portfolio by JP Malit (@blakusnaku)
+Welcome to my **analytics portfolio hub**, where I document, visualize, and showcase my ongoing journey from **data cleaning to full-stack analytics**.
 
-Welcome to my analytics portfolio — a collection of data cleaning projects, exploratory analyses, and dashboards designed to tell stories through data.  
-Each project demonstrates real-world techniques in **Excel, SQL, and Python**, focusing on clarity, insight, and design.
-
----
-
-## Project Index
-
-| Date | Project | Dataset | Tools | Highlights |
-|------|----------|----------|--------|-------------|
-| **2025-10-06** | [Titanic Survival Insights Dashboard](https://github.com/blakusnaku/excel-titanic-cleaning) | Titanic | Excel | Advanced pivots, calculated survival rates, dashboard design |
-| **2025-10-03** | [Superstore Data Cleaning](https://github.com/blakusnaku/data-cleaning-superstore) | Superstore | Excel | Data profiling, null handling, category normalization | 
+This portfolio connects my two active projects — the **Study Dashboard** and **100 Days of Data** — and highlights my progress in building real analytics workflows across Excel, SQL, Python, and Power BI.
 
 ---
 
-## Featured Work
+## 🌐 Featured Projects
 
-### 🛳️ Titanic Survival Insights Dashboard
-A two-part Excel dashboard analyzing survival rates by **gender, class, age, and port of embarkation**.  
-Includes advanced pivot usage, calculated fields, and visual storytelling.  
-> *Key insight:* Females in 1st Class had a 96.8% survival rate — the highest across the dataset.
-
-📎 [View Project →](https://github.com/blakusnaku/excel-titanic-cleaning)  
-📄 [View Dashboard PDF →](https://github.com/blakusnaku/blakusnaku-titanic-dashboard/blob/main/dashboards/titanic_dashboard_v1.pdf)
-
----
-
-### 🏪 Superstore Data Cleaning
-A foundational project focused on data wrangling and transformation using **Excel**.  
-Covers techniques like:
-- Removing duplicates and outliers  
-- Handling nulls and categorical mismatches  
-- Standardizing regions and segments  
-> *Outcome:* Clean dataset ready for visualization and pivot-based analysis.
-
-📎 [View Project →](https://github.com/blakusnaku/blakusnaku-superstore-cleaning)
+### 🧩 [Study Dashboard (v1.2)](https://github.com/blakusnaku/blakusnaku-study-dashboard)
+A live data visualization system that tracks my entire learning process — tasks, completion rates, and progress metrics — across 16 weeks of data study.  
+**Tech stack:** Excel, Power BI, GitHub Pages  
+**Highlights:**
+- 📊 Custom KPI cards with completion %, hours, and variance  
+- 🗓️ 16-week progress grid  
+- 🧮 Integrated task metrics & data cleaning pipelines  
+- 🧾 Versioned dashboard (`v1.2` baseline)
 
 ---
 
-## Cross-Dataset Projects
-Future projects will feature **comparative analytics** between datasets to highlight reusable methods and visualization consistency.
-
-| Theme | Description |
-|-------|--------------|
-| 📈 Pivot Methodology | Compare how similar pivot techniques can model both sales and survival data. |
-| 🎨 Dashboard Patterns | Apply identical design templates across datasets for visual storytelling consistency. |
-| 🧮 KPI Frameworks | Develop reusable key metrics (e.g., Survival Rate, Profit Margin, Conversion Rate). |
-
----
-
-## Tools & Skills
-
-**Core Tools:**  
-Excel · Python (pandas, matplotlib) · SQL · Git · Notion  
-
-**Key Skills:**  
-- Data cleaning & wrangling  
-- PivotTables and calculated fields  
-- Dashboard visualization & storytelling  
-- Version control and GitHub project structuring  
+### 📅 [100 Days of Data](https://github.com/blakusnaku/blakusnaku-100-days-of-data)
+My structured 100-day challenge where I practice and document one concept per day across the full data stack — from **SQL joins** to **Power BI dashboards**.  
+**Tech stack:** SQL, Python (pandas), Power BI  
+**Highlights:**
+- 🔍 Daily block structure (Block 1–4 learning flow)  
+- 🧠 SQL drills & pandas replications  
+- ⚙️ Power BI dashboards linked to Python outputs  
+- ✍️ Daily README logs with reflections
 
 ---
 
-## About Me
-Hi, I’m **JP Malit**, an aspiring data analyst and visual storyteller.  
-I’m passionate about transforming messy datasets into clear, insight-driven stories that help people make decisions.  
-
-I build structured, replicable workflows and design dashboards that balance data depth with clarity.
-
-> 🎯 *Goal for 2025:* Build a collection of dataset-based dashboards and case studies that demonstrate end-to-end analysis — from cleaning to storytelling.
+## 🧮 Gallery Snapshots
+Curated visuals and insights from my ongoing projects.  
+*(Coming soon — will feature SQL joins, Power BI dashboards, and study dashboard metrics.)*
 
 ---
 
-## Contact
-- 💼 [LinkedIn](https://linkedin.com/in/jp-malit)  
-- ✉️ [Email](mailto:jplmalit@gmail.com)  
-- 🧠 Discord / GitHub / Kaggle: **@blakusnaku**
+## 🧠 My Learning Philosophy
+I believe in **building data intuition through iteration** — every dataset is a new story to clean, model, and visualize.  
+Through consistent 100-day sprints and dashboard versioning, I aim to master the pipeline from **raw data → clean insights → interactive dashboards.**
 
 ---
 
-### 🖋️ Credits
-All projects by **JP Malit (@blakusnaku)**  
-*Data sources: public datasets (Kaggle / Open Data / academic archives)*  
-© 2025 JP Malit — Analytics Portfolio. All rights reserved.
+## 📫 Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/jp-malit)  
+- 🐙 [GitHub](https://github.com/blakusnaku)  
+- 🧵 [X / Twitter](https://x.com/blakusnaku)
+
+---
+
+> _“Data clarity isn’t found — it’s built.”_
